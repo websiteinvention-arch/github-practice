@@ -1,3 +1,6 @@
-# GitHub Practice
+## What I am learning
 
-This is my first GitHub practice repository.
+- Git
+- GitHub
+- Branches
+- Commits
