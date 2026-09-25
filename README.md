@@ -15,3 +15,7 @@ the commands are
 git add README.md
 git commit -m"changes"
 git push
+
+## Git Pull Practice
+
+This change was made on GitHub.
